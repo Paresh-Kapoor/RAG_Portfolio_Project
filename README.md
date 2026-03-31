@@ -30,8 +30,8 @@ This project is built using modern, highly efficient open-source tools:
 
 ### **1\. Clone the repository**
 
-git clone \[https://github.com/Paresh-Kapoor/RAG\_Portfolio\_Project.git\](https://github.com/Paresh-Kapoor/RAG\_Portfolio\_Project.git)  
-cd RAG\_Portfolio\_Project
+git clone [https://github.com/Paresh-Kapoor/RAG\_Portfolio\_Project.git](https://github.com/Paresh-Kapoor/RAG\_Portfolio\_Project.git)  
+
 
 ### **2\. Set up a virtual environment (Optional but recommended)**
 
