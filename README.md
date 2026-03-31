@@ -2,7 +2,7 @@
 
 **An intelligent Retrieval-Augmented Generation (RAG) application that lets you chat with your PDF documents.**
 
-**🌟 Try the Live App Here:** [rag-portfolio-project-by-paresh-kapoor.streamlit.app](https://rag-portfolio-project-by-paresh-kapoor.streamlit.app/)
+**🌟 Try the Live App Here:** [Here](https://rag-portfolio-project-by-paresh-kapoor.streamlit.app/)
 
 ## **🧠 How It Works (The RAG Pipeline)**
 
@@ -54,3 +54,5 @@ You can either:
 ### **5\. Run the Application**
 
 streamlit run app.py  
+
+*Built by [Paresh Kapoor](https://www.linkedin.com/in/pareshkapoor)*
